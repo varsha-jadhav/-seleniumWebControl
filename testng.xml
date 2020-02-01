@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="seleniumWebControl.AutoSuggestiveDropDownbox"/>
+      <class name="seleniumWebControl.WaitExplicitly"/>
+      <class name="seleniumWebControl.HandlingMultipleWindow"/>
+      <class name="seleniumWebControl.CountLinkInPage"/>
+      <class name="seleniumWebControl.ScreenshotMaximizeWindowCookies"/>
+      <class name="seleniumWebControl.FrameAssingment"/>
+      <class name="seleniumWebControl.FluentWaitTest"/>
+      <class name="seleniumWebControl.TAble"/>
+      <class name="seleniumWebControl.Autosuggestive"/>
+      <class name="seleniumWebControl.PopupHandle"/>
+      <class name="seleniumWebControl.TableAssignment"/>
+      <class name="pageObjectExample.RediffLoginpageApplicaton"/>
+      <class name="seleniumWebControl.WindowsHandalPopup"/>
+      <class name="seleniumWebControl.MouseActionDemo"/>
+      <class name="seleniumWebControl.CheckboxTest"/>
+      <class name="seleniumWebControl.AddToCart"/>
+      <class name="seleniumWebControl.LinkPAgeAssigment"/>
+      <class name="seleniumWebControl.XPathTest"/>
+      <class name="seleniumWebControl.AssignmentAuoSuggestive"/>
+      <class name="seleniumWebControl.ArrayCartAdd"/>
+      <class name="seleniumWebControl.TableSortingIdea"/>
+      <class name="seleniumWebControl.ParentSib"/>
+      <class name="seleniumWebControl.CalenderJava"/>
+      <class name="seleniumWebControl.FrameHandal"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

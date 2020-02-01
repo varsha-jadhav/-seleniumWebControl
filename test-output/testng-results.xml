@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11936" started-at="2020-01-29T14:03:54 IST" finished-at="2020-01-29T14:04:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11936" started-at="2020-01-29T14:03:54 IST" finished-at="2020-01-29T14:04:06 IST">
+      <class name="databaseConnection.DataBaseNew">
+        <test-method status="PASS" signature="test()[pri:0, instance:databaseConnection.DataBaseNew@4f063c0a]" name="test" duration-ms="11912" started-at="2020-01-29T14:03:54 IST" finished-at="2020-01-29T14:04:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- databaseConnection.DataBaseNew -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

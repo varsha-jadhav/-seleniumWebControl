@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="seleniumWebControl.CheckboxTest">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.CheckboxTest -->
+      <class name="seleniumWebControl.WindowsHandalPopup">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.WindowsHandalPopup -->
+      <class name="seleniumWebControl.AutoSuggestiveDropDownbox">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.AutoSuggestiveDropDownbox -->
+      <class name="seleniumWebControl.TableAssignment">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.TableAssignment -->
+      <class name="seleniumWebControl.XPathTest">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.XPathTest -->
+      <class name="seleniumWebControl.ArrayCartAdd">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.ArrayCartAdd -->
+      <class name="seleniumWebControl.TAble">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.TAble -->
+      <class name="seleniumWebControl.TableSortingIdea">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.TableSortingIdea -->
+      <class name="seleniumWebControl.Autosuggestive">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.Autosuggestive -->
+      <class name="seleniumWebControl.AssignmentAuoSuggestive">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.AssignmentAuoSuggestive -->
+      <class name="seleniumWebControl.LinkPAgeAssigment">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.LinkPAgeAssigment -->
+      <class name="seleniumWebControl.PopupHandle">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.PopupHandle -->
+      <class name="seleniumWebControl.AddToCart">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.AddToCart -->
+      <class name="seleniumWebControl.ParentSib">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.ParentSib -->
+      <class name="seleniumWebControl.CalenderJava">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.CalenderJava -->
+      <class name="pageObjectExample.RediffLoginpageApplicaton">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- pageObjectExample.RediffLoginpageApplicaton -->
+      <class name="seleniumWebControl.FrameHandal">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.FrameHandal -->
+      <class name="seleniumWebControl.MouseActionDemo">
+        <methods>
+          <include name="setUp"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- seleniumWebControl.MouseActionDemo -->
+      <class name="seleniumWebControl.FluentWaitTest">
+        <methods>
+          <include name="test"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- seleniumWebControl.FluentWaitTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
